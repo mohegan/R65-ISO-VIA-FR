@@ -38,3 +38,4 @@
 
 <p>Al proceder con la descarga, instalación o uso del firmware y los archivos de este repositorio, usted acepta los términos de este descargo de responsabilidad y reconoce que comprende y acepta los riesgos asociados.</p>
 </div>
+
