@@ -1,6 +1,12 @@
+> [!IMPORTANT]  
+> Read **COMPLETELY** this document before using the files in this repository.
+> Original disclaimer by @irfanjmdn (Creator of the original firmware for the ANSI version of the RK65).
+> This disclaimer also applies to this modified version in ISO layout.
+> <a href="https://github.com/irfanjmdn/r65/tree/master">**ORIGINAL CREATOR'S REPOSITORY HERE**</a>
+
+---
+
 <div align="center">
-<h5>Disclaimer Original de @irfanjmdn (Creador del Firmware original para la version ANSI del RK65):</h5>
-<a href="https://github.com/irfanjmdn/r65/tree/master">REPOSITORIO DEL CREADOR ORIGINAL AQUí</a>
 <h3>Disclaimer:</h3>
 
 <p>By using the modified firmware, software, or utilizing any files provided in this repository in any way, you acknowledge and agree to the following:</p>
@@ -15,7 +21,8 @@
 
 <h4>Liability</h4>
 <ol start="3">
-<li>I, @irfanjmdn, the <strong>maintainer</strong> of this specific repository, am <strong>not responsible</strong> for any direct, indirect, incidental, special, or consequential damages, including but not limited to damage to your keyboard, computer hardware, software, or data loss, resulting from the use of the firmware or any other files provided here.</li>
+<li>Both I, @NieblaDev, the <strong>creator of this ISO adaptation</strong>, and @irfanjmdn, the <strong>creator of the original repository on which this modification is based</strong>, <strong>are not responsible</strong> for any direct, indirect, incidental, special, or consequential damages, including but not limited to damage to your keyboard, computer hardware, software, or data loss, resulting from the use of the firmware or any other files provided here.</li>
+
 
 <li>You are responsible for ensuring that your use of the firmware <strong>complies with all applicable local, state, and national laws and regulations</strong> regarding hardware modifications and electronic device usage. Engaging in any illegal activities while using this firmware is strictly prohibited. Such actions may result in the voiding of warranties or legal consequences.</li>
 </ol>
@@ -26,7 +33,7 @@
 
 <li>It is <em>strongly</em> recommended that only individuals who are <strong>experienced with keyboard firmware modification</strong> and aware of the associated risks attempt to use or modify the firmware. Please ensure that all provided instructions are followed carefully, and seek support from the <a href="https://discord.gg/qmk">QMK community</a> if you encounter any technical issues.</li>
 
-<li>This repository is specifically for the <strong>wired version</strong> of the Royal Kludge R65 keyboard with the <strong>ANSI layout</strong>, identified by Vendor ID <code>342D</code> and Product ID <code>E453</code>. For other layouts or versions, please refer to the appropriate repositories which are provided in the main <a href="README.md">README.md</a> file.</li>
+<li>This repository is specifically an adaptation for the <strong>wired version</strong> of the Royal Kludge R65 keyboard with the <strong>ISO layout</strong>, identified by Vendor ID <code>342D</code> and Product ID <code>E453</code>. For other layouts or versions, please refer to the appropriate repositories which are provided in the main <a href="README.md">README.md</a> file.</li>
 </ol>
 
 <p>By proceeding with the download, installation, or use of the firmware and files from this repository, you agree to the terms of this disclaimer and acknowledge that you understand and accept the associated risks.</p>
