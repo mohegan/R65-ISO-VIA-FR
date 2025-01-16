@@ -1,5 +1,6 @@
 <div align="center">
 <h5>Disclaimer Original de @irfanjmdn (Creador del Firmware original para la version ANSI del RK65):</h5>
+<a href="https://github.com/irfanjmdn/r65/tree/master">REPOSITORIO DEL CREADOR ORIGINAL AQUí</a>
 <h3>Disclaimer:</h3>
 
 <p>By using the modified firmware, software, or utilizing any files provided in this repository in any way, you acknowledge and agree to the following:</p>
