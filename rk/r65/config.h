@@ -1,7 +1,7 @@
 // Copyright 2024 DV (@iamdanielv)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
-#pragma once
+#pragma onc
 
 #define LED_WIN_LOCK_PIN B10
 #define LED_MAC_PIN B11
