@@ -6,13 +6,15 @@
 - [ESPAÑOL](#español)
 
 ---
+<a name="english"></a>
+
 <div align="center">
   English Section:
 </div>
 
-<a name="english"></a>
 >[!IMPORTANT]  
->⚠️ These files are only for the **ISO** wired version of the **Royal Kludge R65** keyboard. These files **MUST NOT** be used for the wireless version.  
+>⚠️ These files are only for the **ISO** wired version of the **Royal Kludge R65** keyboard. These files **MUST NOT** be used for the wireless version.
+>🛑 
 >📜 You **MUST READ THE [DISCLAIMER](DISCLAIMER-ENG.md)** provided, available in both English and Spanish, containing in-depth relevant explanations before using the files in this repository.
 
 ## Description 🖋️  
@@ -72,14 +74,15 @@
 - **Option 2**: Hold the Escape key while connecting the USB cable (this will also erase settings).
 - **Option 3**: Press `Fn+Shift+Esc`.
 ---
+<a name="español"></a>
 
 <div align="center">
   Sección en Español:
 </div>
 
-<a name="español"></a>
 >[!IMPORTANT]  
 >⚠️ Estos archivos son solo para la versión **ISO** cableada del teclado **Royal Kludge R65**. Estos **NO** deben ser usados para la versión inalámbrica.  
+>🛑 Esto es **firmware custom** que podría romper tu teclado, use bajo su propio riesgo.  
 >📜 Usted **DEBE LEER EL [DISCLAIMER](DISCLAIMER-ESP.md)** otorgado, está tanto en Español como en Inglés y contiene explicaciones a fondo relevantes antes del uso de los archivos de este Repositorio.
 
 ## Descripción 🖋️  
