@@ -8,7 +8,6 @@
 
 /* (@NieblaDev) Polling Rate MOD to achieve 1000hz */
 #define USB_POLLING_INTERVAL_MS 1
-#define QMK_KEYS_PER_SCAN 12
 
 /* SPI */
 #define SPI_DRIVER SPIDQ
