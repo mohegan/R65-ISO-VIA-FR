@@ -4,7 +4,7 @@
 
     This is a keymap for the ISO version of the RK65 keyboard.
     It is based on the keymap made by @sdk66, with some modifications and error corrections.
-    It also is based on the keymap made by @irfanjmdn for the ANSI version of the RK65 keyboard.
+    It also is based on the keymap made by @irfanjmdn && @@iamdanielv for the ANSI version of the RK65 keyboard.
     This is currently the keymap I personally use on my RK65 for ISO Spanish layout.
 */
 
