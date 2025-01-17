@@ -1,4 +1,4 @@
-// Copyright 2024 DV (@iamdanielv)
+// Copyright 2024 DV (@iamdanielv).
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 //#include "quantum.h"
