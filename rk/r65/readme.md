@@ -1,16 +1,16 @@
-# R65
+# R65 ISO Firmware
 
 * This ISO Keymap was made by: [NieblaDev](https://github.com/NieblaDev)
+* Based on the work of: [sdk66](https://github.com/sdk66), [irfanjmdn](https://github.com/irfanjmdn), [iamdanielv](https://github.com/iamdanielv)
 * Hardware Supported: R65 (AKA RK839)
 * Hardware Availability: [rk](http://www.rkgaming.com)
 
-Make example for this keyboard (after setting up your build environment):
+# How to compile this firmware
 
-    make rk/r65:iso
-        
-Flashing example for this keyboard:
+QMK MYSYS Console:
 
-    make rk/r65:iso:flash
+    qmk compile -kb rk/r65 -km iso
+Then you flash using QMK Toolbox.
 
 To reset the board into bootloader mode, do one of the following:
 
