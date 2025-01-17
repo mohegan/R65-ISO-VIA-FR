@@ -1,7 +1,7 @@
 // Copyright 2024 DV (@iamdanielv)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
-#pragma onc
+#pragma once
 
 #include_next <mcuconf.h>
 
