@@ -14,7 +14,7 @@
 
 >[!IMPORTANT]  
 >⚠️ These files are only for the **ISO** wired version of the **Royal Kludge R65** keyboard. These files **MUST NOT** be used for the wireless version.
->🛑 
+>🛑 This is custom firmware that could damage your keyboard. Use at your own risk.
 >📜 You **MUST READ THE [DISCLAIMER](DISCLAIMER-ENG.md)** provided, available in both English and Spanish, containing in-depth relevant explanations before using the files in this repository.
 
 ## Description 🖋️  
