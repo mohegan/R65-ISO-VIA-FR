@@ -1,5 +1,5 @@
 # Royal Kludge r65 ISO (Only Wired)
-![Royal Kludge R65 Keyboard](R65-ISO Banner.png)
+![Royal Kludge R65 Keyboard](R65-ISO.png)
 
 ### Select Language: 
 - [ENGLISH](#english)
