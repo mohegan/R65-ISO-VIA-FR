@@ -48,7 +48,7 @@
    Trouvez le fichier compilé `.bin` ou `.hex` à la racine du dossier `qmk_firmware`.
 
 ### > ⚡ Flasher/Installer le Firmware
-## 1) Méthode en ligne de comamndes
+## 1) Méthode en ligne de commandes
 
 1. **Entrer en mode Bootloader**
    Maintenez la touche Échap en branchant le câble USB. **Cela efface aussi les paramètres**.
