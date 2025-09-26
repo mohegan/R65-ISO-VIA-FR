@@ -106,6 +106,8 @@ Ce guide est basé sur un clavier comme celui illustré ci-dessus.
 |                      | `Fn+0`             | F10                                            |
 |                      | `Fn+)`             | F11                                            |
 |                      | `Fn+=`             | F12                                            |
+|                      | `Alt+2`            | Alt+F2                                         |
+|                      | `Alt+4`            | Alt+F4                                         |
 | ⌨️ **Touches système**    | `Fn+PgUp`            | Touche accueil / début                       |
 |                      | `Fn+PgDn`          | Touche Fin                                     |
 |                      | `Fn+backspace`    | Touche impression écran                         |
