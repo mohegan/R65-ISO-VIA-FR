@@ -1,5 +1,5 @@
 # Royal Kludge R65 ISO *(filaire uniquement)*
-![Royal Kludge R65 Keyboard](R65-ISO.png)
+![Royal Kludge R65 Keyboard](R65-ISO-FR.png)
 
 >[!IMPORTANT]  
 >⚠️ Ces fichiers concernent uniquement la version **ISO** filaire du clavier **Royal Kludge R65**. Ces fichiers **NE DOIVENT PAS** être utilisé avec la version sans fil de ce même claiver.
